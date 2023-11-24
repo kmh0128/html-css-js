@@ -37,10 +37,50 @@ HTML은 웹 페이지에 콘텐츠를 표시하기 위해 사용하는 언어입
 
 ![태그의 예시1](https://github.com/kmh0128/html-/assets/100178951/871c9479-92e1-4689-b78a-09c8875a3412)
 
+기본 태그 구조
+===
+HTML은 머리(head)와 몸(body)로 이루어져있다고 생각하면 편하다.
+
+head는 HTML의 전반적인 특성을 설정하는 곳이다.
+
+body는 화면에 그려질(render) 내용들을 넣는 곳이다.
+
+내용
+===
+
+<!DOCTYPE html>   웹 문서의 유형을 html로 지정
+
+<html>	모든 html 태그들의 최상위 태그
+
+<head>	문서의 공통적인 특성들을 넣는 곳, 전역(전체적인) 특성
+
+<meta>	메타 데이터 입력
+
+<title>	문서의 제목
+
+<body>	문서의 본문, 여기에 내용을 나타낸다.
+
+
+예
+===
+
+    <!DOCTYPE html>
+    <html lang="ko">
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+    </head>
+    <body>
+      <h1>여기는 문서 본문입니다.</h1>
+    </body>
+    </html>
 
 
 HTML Basic Tags
 ====
+
+
+
 
 <html>
 
