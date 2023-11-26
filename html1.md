@@ -101,9 +101,26 @@ HTML Basic Tags
 보통 제목표시줄이 더 많이 노출되기 때문에 잘 쓰면 좋다.
 
 
+내용 입력
+===
+제목
 
+h1, h2, …, h6 (heading)
 
+예
+==
 
+    <h1>h1입니다.</h1>                       
+
+    <h2>h2입니다.</h2>                       
+
+    <h3>h3입니다.</h3>       
+                           =>              1일때 가장 크고 숫자가 커질수록 글자 크기가 작아진다.
+    <h4>h4입니다.</h4>
+
+    <h5>h5입니다.</h5>
+
+    <h6>h6입니다.</h6>
 
 
 
@@ -127,6 +144,8 @@ html속성
 https://velog.io/@ljinsk3/HTML-%EA%B8%B0%EC%B4%88-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC
 
 https://yunbinni.tistory.com/63
+
+https://velog.io/@ansalstmd/HTML-1
 
 https://velog.io/@ansalstmd/HTML-1
 
