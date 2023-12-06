@@ -75,6 +75,8 @@ body는 화면에 그려질(render) 내용들을 넣는 곳이다.
     </body>
     </html>
 
+<html lang="ko">
+언어를 한국어로 보일수 있게 지정해주는 언어입니다.
 
 HTML Basic Tags
 ====
