@@ -116,10 +116,29 @@ tile 태그에서 지정하는 내용은 웹 브라우저의 제목 표시줄의
 
 웹 사이트 즐겨찾기 사용시 웹 문서의 제목으로 표시
 
-![image](https://github.com/user-attachments/assets/de8e9919-0680-40d0-95f5-252791d2740a)
+![title 태그](https://github.com/user-attachments/assets/7c76467b-9a66-404d-9965-a849906300e3)
+
 
 
 웹문서의 내용을 표시하는 <body>태그
 ---
 
+예시
+--
 
+        <body>
+            <h1>웹 문서 만들기</h1>
+            <p>HTML</p>
+            <p>CSS</p>
+            <p>Javascript</p>
+        </body>
+        
+![바디태그](https://github.com/user-attachments/assets/f174faa7-7956-4eb2-9334-5c01833f1471)
+
+bodu 태그는 웹 브라우저에 표시되는 내용이다.
+
+
+참고자료
+---
+
+Do it 한권으로 끝내는 웹 교과서 html css js 저자 고경희님
