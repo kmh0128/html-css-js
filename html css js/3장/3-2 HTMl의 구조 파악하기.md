@@ -97,6 +97,29 @@ meta 태그에서 인코딩을 명시하지 않으면 웹 브라우저에서 자
 검색 엔진에 따라 참고하는 정보가 달라질 수 있다.
 
 <meta name="keywords" content="html의 구조"> -> 웹문서의 키워드
-<meta 
+<meta name="description" content="html의 구조를 알아 봅시다"> -> 웹 문서의 설명
+<meta name="author" content="Myungho Kang'> -> 웹문서의 소유자 or 제작자
+
+
+문서 제목을 나타내는 <title> 태그
+---
+
+<head>-> 태그 안에서 가장 중요한 태그는 <title> 태그
+
+예시
+
+        <title>HTML의 기본문서</title>
+
+tile 태그에서 지정하는 내용은 웹 브라우저의 제목 표시줄의 표시
+
+해당 페이지의 방문자나 검색 엔진은 제목 표시줄의 제목을 보고 페이지 전체 내용을 추측할 수 있어야 된다.
+
+웹 사이트 즐겨찾기 사용시 웹 문서의 제목으로 표시
+
+![image](https://github.com/user-attachments/assets/de8e9919-0680-40d0-95f5-252791d2740a)
+
+
+웹문서의 내용을 표시하는 <body>태그
+---
 
 
