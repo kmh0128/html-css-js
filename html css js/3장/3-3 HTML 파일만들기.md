@@ -80,3 +80,10 @@ VS Code 왼쪽 사이드바 확장을 클릭 검색후 설치
 ![image](https://github.com/user-attachments/assets/c9c803a9-9b68-45d5-ae48-93a4680e15af)
 
 <hr>태그는  웹 문서에 가로줄을 표시하는 태그
+
+
+
+참조자료
+---
+
+Do it 한권으로 끝내는 웹 교과서 html css js 저자 고경희님
