@@ -1,4 +1,23 @@
 폼(form)
 ===
 
+폼이란
+---
 
+HTML에서 폼은 사용자가 데이터를 입력하거나 선택해서 서버로 전송 가능하게 만드는 UI 영역이다.
+
+즉, 회원가입 폼이나 로그인 폼 같은 사용자 <-> 웹서버 사이의 데이터 교환 통로라고 보면 된다.
+
+
+
+
+
+
+
+
+
+
+참조자료
+---
+
+https://lold2424.tistory.com/m/260#:~:text=%ED%8F%BC(Form)%EC%9D%B4%EB%9E%80?HTML%EC%97%90%EC%84%9C%20%ED%8F%BC%EC%9D%80%20%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9E%85%EB%A0%A5%ED%95%98%EA%B1%B0%EB%82%98%20%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C%20%EC%84%9C%EB%B2%84%EB%A1%9C,%EB%93%B1)%EA%B0%80%20%EB%93%A4%EC%96%B4%EA%B0%84%EB%8B%A4.%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9E%85%EB%A0%A5%ED%95%98%EA%B1%B0%EB%82%98%20%EC%84%A0%ED%83%9D%ED%95%98%EC%97%AC%20%EC%A0%9C%EC%B6%9C(submit)%20%EB%B2%84%ED%8A%BC%EC%9D%84
