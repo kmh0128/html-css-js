@@ -250,6 +250,57 @@ checkbox, radio
 
 ![image](https://github.com/user-attachments/assets/82183935-229a-45cc-b154-54734b8af273)
 
+숫자 필드를 나타내는 number, range
+---
+
+텍스트 필드에 사용자가 숫자를 직접 입력할수도 있다.
+
+type="number"와 type="range"를 사용할 수도 있다.
+
+type="number" 스핀박스를 사용해서 숫자를 입력한다.
+
+type="range" 슬라이드 막대를 사용해서 범위를 입력한다.
+
+상품 개수처럼 정확한 숫자가 필요시는 number
+
+볼륨 조절 막대처럼 숫자가 필요없지만 값을 크거나 작게 변경할때는 range를 사용
+
+  <input type ="number">
+  <input type ="range">
+
+number, range 속성
+---
+
+  min 필드에 입력할 수 있는 최소값을 지정합니다. 기본 최소값은 0
+  
+  max 필드에 입력할 수 있는 최대값을 지정합니다. 기본 최대값은 100
+  
+  step 숫자 간격을 지정할 수 있습니다. 기본은 1
+  
+  value 필드에 표시할 초기값
+
+예시
+---
+
+         <ul>
+          <li>
+            <label><input type="checkbox" value="s_3">선물용 3kg</label>
+            <input type="number" min="0" max="5">개
+          </li>
+          <li>
+            <label><input type="checkbox" value="s_5">선물용 5kg</label>
+            <input type="number" min="0" max="3" value="1">개
+          </li>
+         </ul>
+
+2개의 스핀 박스 최소값으 0 최대값은 5와 3으로 지정
+
+step 속성은 지정하지 않아서 화살표를 누를때마다 1씩 커지거나 작아진다.
+
+두번째 박스는 value="1" 지정해서 초기값 1이 화면에 표시
+
+![image](https://github.com/user-attachments/assets/a340beb6-2006-4536-8be2-2a7467beaeb6)
+
 
 참고자료
 ---
