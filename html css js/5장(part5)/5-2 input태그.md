@@ -372,12 +372,75 @@ step =1로 지정해서 슬라이드 막대를 움직일때 마다 1씩 커지�
 
 전송 버튼을 나타내는 submit는 폼에 입력한 정보를 서버로 전송합니다.
 
+정보가 전달되는 곳은 form  태그의 action 속성에서 지정한 프로그램입니다.
+
+반면에 리셋 버튼은 input요소에 입력한 내용을 모두 지우는 역할을 합니다.
+
+그리고 value속성을 사용해서 버튼에 표시할 내용을 지정합니다.
 
 
+예시 전송버튼 리셋버튼 추가
+---
+
+    <input type="submit" value="반품하기">
+    <input type="reset" value="취소하기">
+
+![image](https://github.com/user-attachments/assets/09cbd0de-6b27-426b-9690-8db21d7b1c15)
+
+이미지 버튼을 나타내는 type="image"
+------
+
+   <input type="image" src="이미지 경로" alt="대체 텍스트">
+
+![image](https://github.com/user-attachments/assets/893b767b-a2f7-4966-abed-9815b156dd13)
+
+  <input type="image" src="images/login.png" alt="로그인">
+
+기본 버튼을 나타내는 type="button"
+---
+
+input 태그에서 type="button"을 사용하면 기능이 없는 버튼 형태만 삽입합니다.
+
+주로 버튼을 클릭해서 자바스크립트를 실행할 때 사용 합니다.
+
+value 속성을 사용해 버튼에 표시할 내용을 지정한다.
+
+예시 button을 삽입해 자바스크립트 실행하기
+---
+
+   <input type="button" value="공지 창 열기" onclick="window.open('notice.html','_blank', 'width=300,height=400')">
+
+![image](https://github.com/user-attachments/assets/4f2256e6-4980-4b71-b266-b0d6a06ff895)
+
+파일을 첨부할 때 사용하는 type="file"
+---
+
+사진이나 문서를 첨부해야 하는 경우가 있다.
+
+type="file"로 지정하면 폼에 파일을 첨부할 수 있습니다.
+
+type="file" 속성을 사용하면 웹 브라우저 화면에 파일선택이나 찾아보기 버튼 등이 표시되는데 이 버튼을 클릭하고 파일을 선택하면 파일이 첨부된다.
+
+예시 파일 첨부 버튼 추가하기
+---
+
+![image](https://github.com/user-attachments/assets/c44e8c2c-fcfa-4b65-91df-c93a1d5ae536)
 
 
+히든필드
+---
 
+type="hidden" 히든 필드는 화면의 폼에는 보이지 않지만 사용자가 입력한 정보를 서버로 보낼 때 함꼐 전송되는 요소이다.
 
+사용자에게 굳이 보여 줄 필요는 없지만 관리자가 알아야 하는 정보는 히든 필드로 입력한다.
+
+    <input type="hidden" name="이름" value="서버로 전송할 값">
+
+히든필드는 예를 들면 사용자가 쇼핑몰 사이트에서 로그인하는 정보를 서버로 넘겨준다.
+
+웹 브라우저에서는 히든 필드가 보이지 않으므로 사용자는 그 정보를 알 수 없다.
+
+로그인 버튼을 클릭하면 입력한 정보와 함꼐 히든 필드의 내용이 서버로 함께 전송된다.
 
 
 참고자료
