@@ -58,7 +58,17 @@ p태그로 지정된 텍스트 단락 지정하기를 p
 ---
 
 
+![image](https://github.com/user-attachments/assets/228bb3d9-edec-4065-9337-c2c410cf5f0a)
 
+
+
+타입 선택자와 태그 선택자
+---
+
+타입 선택자는 태그 이름을 선택자로 사용하므로 태그 선택자(tag selector)라고 하고, 스타일을 적용하는 대상이 요소(element)이므로 요소 선택자(element selector)라고 합니다.
+
+클래스 선택자
+---
 
 
 
