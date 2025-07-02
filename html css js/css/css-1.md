@@ -68,3 +68,17 @@ Attribute
 ---
 
 []
+
+
+CSS문법
+---
+
+    selector(선택자){ 
+     property(속성): value(값); 
+    } 
+
+
+참조자료
+--
+
+https://www.youtube.com/watch?v=gGebK7lWnCk&list=PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y&index=5
