@@ -195,4 +195,6 @@ link 태그는 head태그 내부에서 사용
 참조자료
 --
 
+DO It HTML CSS 자바스크립트 웹표준의 정석 저자 고경희님
+
 https://www.youtube.com/watch?v=gGebK7lWnCk&list=PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y&index=5
