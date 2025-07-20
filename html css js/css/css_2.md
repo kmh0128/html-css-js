@@ -25,6 +25,9 @@ serif, sans-serif, cursive, monospace 등을 generic-family라고 부르는데,
           
           monospace: 글자 폭과 간격이 일정한 글꼴 모음
 
+font-size
+---
+
 
 웹 폰트
 --
