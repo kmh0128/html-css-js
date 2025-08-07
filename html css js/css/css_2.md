@@ -28,10 +28,16 @@ serif, sans-serif, cursive, monospace 등을 generic-family라고 부르는데,
 font-size
 ---
 
- CSS 속성은 폰트의 크기(대문자 "M"의 크기)를 지정합니다. 폰트 크기를 바꾸면 em 과 ex <length> 단위로 계산된 다른 항목들의 크기를 바꿉니다.
+ 글자의 크기를 정의한다.
+
+ CSS 속성은 폰트의 크기(대문자 "M"의 크기)를 지정합니다.
+ 
+ 폰트 크기를 바꾸면 em 과 ex <length> 단위로 계산된 다른 항목들의 크기를 바꿉니다.
+
+font-size: 절대크기 or 상대크기로 조절 가능
 
 
-\
+
 
 웹 폰트(web font)
 --
@@ -58,3 +64,6 @@ Do it 한권으로 끝내는 웹 기본 교과서 HTML CSS 자바스크립트  �
 https://bskyvision.com/entry/css-font-family-%EC%86%8D%EC%84%B1%EC%97%90-%EC%97%AC%EB%9F%AC-%ED%8F%B0%ED%8A%B8-%EB%93%B1%EB%A1%9D%ED%95%98%EC%97%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0-%EC%96%B8%EC%96%B4%EB%B3%84%EB%A1%9C-%ED%8F%B0%ED%8A%B8-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
 
 https://developer.mozilla.org/ko/docs/Learn_web_development/Core/Text_styling/Fundamentals
+
+
+https://knowing-passion.tistory.com/916
