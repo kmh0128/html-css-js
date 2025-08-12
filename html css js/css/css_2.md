@@ -36,7 +36,9 @@ font-size
 
 font-size: 절대크기 or 상대크기로 조절 가능
 
+상대크기는 그 밧의 몇 배인지를 표시하는 방법
 
+%나 em,rem 단위를 사용
 
 
 웹 폰트(web font)
