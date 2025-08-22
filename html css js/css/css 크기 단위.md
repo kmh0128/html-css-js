@@ -20,4 +20,33 @@ px은 픽셀(화소)단위 이다.
 픽셀은 디바이스 해상도(resolution)에 따라 상대적인 크기를 갖는다.
 
 
+%  단위
+----
 
+
+%는 백분률 단위의 상대 단위이다.
+
+요소에 지정된 사이즈(상속된 사이즈나 디폴트 사이즈)에 상대적인 사이즈를 설정한다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+출처: https://inpa.tistory.com/entry/CSS-📚-값의-단위-px-em-rgb-viewport?restoreScroll=6782#__단위 [Inpa Dev 👨‍💻:티스토리]
+
+https://poiemaweb.com/css3-units
