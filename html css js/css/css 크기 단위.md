@@ -68,7 +68,15 @@ Viewport 단위(vh, vw, vmin, vmax)
 
 Viewport 단위는 상대적인 단위로 viewport를 기준으로 한 상대적 사이즈를 의미한다.
 
+단위	Description
 
+vw	viewport 너비의 1/100
+
+vh	viewport 높이의 1/100
+
+vmin	viewport 너비 또는 높이 중 작은 쪽의 1/100
+
+vmax	viewport 너비 또는 높이 중 큰 쪽의 1/100
 
 
 
