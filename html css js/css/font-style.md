@@ -5,3 +5,14 @@ font-style
 
 이탤릭체로 바꾸는 속성값은 italic 과 obique가 있는데 웹 에서는 주로 italic을 사용한다.
 
+    font-style: normal; 
+    /* font-style: italic; */
+    /* font-style: oblique; */
+    
+1
+
+2
+
+3
+
+    
