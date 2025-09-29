@@ -10,3 +10,15 @@ line-height속성을 이용하면 줄 높이를 원하는 만큼 조절할 수 �
 글자 크기가 10px인 단락의 줄 높이를 2.0으로 했다면 실제 줄 높이는 글자 크기의 2배가 된다.
 
 줄 높이는 글자 크기의 1.5~2배면 적당하다.
+
+줄높이 지정
+---
+
+    P{ font-size: 12px; line-height: 24px;}
+    P{ font-size: 12px; line-height: 2.0;}
+    P{ font-size: 12px; line-height: 200%;}
+
+
+자료 출처
+--
+
