@@ -8,12 +8,23 @@
 |property|상|
 |----------|---|
 |width/height   |no |
-|| |
-|||
-|| |
-|||
-|||
-||  |
+|margin  |no |
+|padding  |no  |
+|border  |no  |
+|box-sizing  |no  |
+|display  |no  |
+|visibility  |yes  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+
+
 
 자료출처
 ---
