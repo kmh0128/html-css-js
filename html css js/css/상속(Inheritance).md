@@ -14,14 +14,20 @@
 |box-sizing  |no  |
 |display  |no  |
 |visibility  |yes  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|opacity  |yes  |
+|background |no  |
+|font  |yes  |
+|color  |yes  |
+|line-height  |yes  |
+|text-align  |yes  |
+|vertical-align  |no  |
+|text-decoration  |no  |
+|white-space  |yes |
+|position  |no  |
+|top/right/bottom/left  |no  |
+|z-index  |no  |
+|overflow  |no  |
+|float  |no  |
 
 
 
