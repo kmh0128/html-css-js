@@ -6,6 +6,9 @@ html
 
 유노코딩 -> https://www.youtube.com/@uknowcoding
 
+https://wikidocs.net/160892
+
+
 html이란?
 ----
 
@@ -57,9 +60,33 @@ HTML 코드에서 정보(콘텐츠)를 정의하는 형식
 
 태그명과 속성 정의는 공백(space)으로 구분하며, 큰따옴표를 사용한다.
 
+주석
+--
+
+주석은 사람에게는 보이지만, 컴퓨터(웹브라우저)에게는 보이지 않는 코드
+
+html에서 사용하는 주석
+--
+
+<!-- 주석 내용 -->
+
 
 html 문서의 구조
 ---
+
+   <!DOCTYPE html>
+   <html lang="ko">
+     <head>
+       <meta charset="utf-8">
+       <title>여기에는 문서의 제목을 입력해주세요</title>
+     </head>
+     <body>
+       여기에 웹페이지에 표시할 콘텐츠(태그)를 입력해주세요
+     </body>
+   </html>
+
+
+
 
 
 
