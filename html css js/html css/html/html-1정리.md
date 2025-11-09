@@ -129,30 +129,21 @@ head 태그
 웹페이지를 방문하는 웹 이용자는 탭 메뉴에 표시되는 텍스트를 보고 웹페이지가 제공하는 콘텐츠에 대해 짐작할 수 있으므로 이는 무척 중요한 정보입니다.
 
 
-
-
-
-
-
-
-ul 태그
+예
 ---
 
-unordered list의 약자
+       <!DOCTYPE html>
+       <html lang="ko">
+         <head>
+           <meta charset="utf-8">
+           <title>문서 제목 </title>
+         </head>
+         <body>
+         </body>
+       </html>
 
-정렬되지 않은 리스트
-
-ol 태그
----
-
-ordered list의 약자
-
-정렬된 리스트라는 뜻이다.
 
 
-li 태그
----
 
-list item의 약자
 
-리스트 아이
+
