@@ -8,6 +8,8 @@ html정리5
 
 https://wikidocs.net/287992
 
+https://mjmjmj98.tistory.com/122 
+
 
 
 링크(link)
@@ -34,3 +36,15 @@ href 속성
 ---
 
 'hypertext reference의 줄임말로 어디로 이동할지 지정하는 속성
+
+
+target 속성
+---
+
+또 다른 속성으로는 target 속성이 있습니다.
+
+클릭으로 링크를 오픈할 때 어디에서 오픈할지 정하는 속성입니다. 제일 많이 쓰는 속성 값으로는 "_self"와 "_blank"가 있습니다. 
+
+"_self": 현재 창에서 링크를 오픈합니다. 
+
+"_blank": 새 창(또는 탭)에서 링크를 오픈합니다. 
