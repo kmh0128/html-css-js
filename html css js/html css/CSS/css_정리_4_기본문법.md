@@ -4,6 +4,8 @@ css_정리_4_기본문법
 참고자료
 ---
 
+https://coding-factory.tistory.com/896
+
 https://velog.io/@jueunyang08/CSS-CSS-%EA%B8%B0%EB%B3%B8-%EC%84%A0%ED%83%9D%EC%9E%90-Selector-%EC%A0%84%EC%B2%B4-%EC%84%A0%ED%83%9D%EC%9E%90-%ED%83%80%EC%9E%85-%EC%84%A0%ED%83%9D%EC%9E%90-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%84%A0%ED%83%9D%EC%9E%90-id-%EC%84%A0%ED%83%9D%EC%9E%90-%EA%B7%B8%EB%A3%B9-%EC%84%A0%ED%83%9D%EC%9E%90
 
 https://wikidocs.net/298956
