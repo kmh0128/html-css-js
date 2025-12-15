@@ -4,7 +4,9 @@ footer태그
 참고자료
 ---
 
-정정의
+http://www.tcpschool.com/html-tags/footer
+
+정의
 ---
 
 footer> 태그는 문서나 특정 섹션(section)의 푸터(footer)를 정의할 때 사용합니다.
@@ -26,4 +28,7 @@ footer> 태그는 문서나 특정 섹션(section)의 푸터(footer)를 정의�
  
 
 하나의 HTML 문서에는 여러 개의 <footer> 요소가 포함될 수 있습니다.
+
+
+
 
