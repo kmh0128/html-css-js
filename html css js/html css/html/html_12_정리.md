@@ -35,3 +35,18 @@ label for="" -> 어떤것을 위한 label이냐라는 뜻
 input 태그를 위한 label이다.
 
 for 안에다 id명을 기입
+
+속성
+---
+
+- placeholder: 입력 힌트 표시
+- 
+- maxlength: 최대 입력 글자 수 제한
+- 
+- required: 필수 입력 항목 지정
+- 
+- size: 입력창의 크기 조절
+- 
+- value: 기본값 설정
+- 
+- readonly: 읽기 전용 (수정 불가)
