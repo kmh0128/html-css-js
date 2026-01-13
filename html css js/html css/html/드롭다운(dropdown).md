@@ -24,7 +24,13 @@ https://wikidocs.net/287999
 
 두 대그의 관계는 설명서와 설명 항목의 관계나 메뉴판과 메뉴 항목 같은 관계이다.
 
+예시
+---
 
+                                <select name="name_list">
+                                        <option value="Mei">메이</option>
+                                        <option value="Rio">리오</option>
+                                </select>
 
 
                         
