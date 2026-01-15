@@ -68,4 +68,45 @@ value 속성
 
 이 속성이 생략되면 값은 옵션 요소의 텍스트 내용에서 가져옵니다.
 
+selected 속성
+----
 
+페이지가 처음 로드될 때 기본적으로 선택되도록 <option>에 selected 속성을 포함할 수 있다.
+
+이 속성은 부울 속성(boolean attribute)입니다. 값을 별도로 작성하지 않고 속성만 작성다.
+
+예시
+---
+
+                                        <label for="color">색상 선택</label>
+                                        <select id="color">
+                                            <option value="red">빨강</option>
+                                            <option value="blue" selected>파랑</option>
+                                            <option value="yellow">노랑</option>
+                                            <option value="green">초록</option>
+                                        </select>
+
+disabled 속성
+---
+
+컨트롤 비활성 속성이라고도 부르며, 포커스도 가능하지 않고, 양식 제출 시 해당 값은 제출되지 않습니다.
+
+select 태그 활성화 후 컨트롤에 드롭다운 목록이 표시되는 경우 대부분의 브라우저는 이 속성을 포함한 옵션을 회색처리합니다. 
+
+그리고, 사용자도 이 옵션을 선택할 수 없다.
+
+이 속성은 부울 속성(boolean attribute)입니다.
+
+값을 별도로 작성하지 않고 속성만 작성합니다.
+
+예시
+---
+
+
+
+optgroup 태그
+----
+
+optgroup 태그  select 태그 내에서 공통 레이블(이름)이 있는 <option> 태그의 그룹을 나타냅니다.
+
+이 태그로 관련된 option 태그들을 묶어 그룹화하면, 사용자에게 더욱 체계적인 옵션 목록을 제공할 수 있다.
