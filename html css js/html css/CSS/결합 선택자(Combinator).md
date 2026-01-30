@@ -9,6 +9,8 @@ https://inpa.tistory.com/entry/CSS-%F0%9F%93%9A-%EC%84%A0%ED%83%9D%EC%9E%90-%EB%
 
 https://developer.mozilla.org/ko/docs/Learn_web_development/Core/Styling_basics/Combinators
 
+https://www.youtube.com/watch?v=phiSW6Pr-gg&list=LL&index=45
+
 결합 선택자란?
 ----
 
