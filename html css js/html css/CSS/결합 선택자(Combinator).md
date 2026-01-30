@@ -29,3 +29,9 @@ https://developer.mozilla.org/ko/docs/Learn_web_development/Core/Styling_basics/
 
 가상 클래스 선택
 
+자식 선택자(Child selector)
+---
+
+자식 선택자(>)는 두 CSS 선택자 사이에 배치됩니다. 
+
+특정 요소의 직계 자식 요소 선택하는데 사용됩니다.
