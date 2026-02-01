@@ -11,6 +11,8 @@ https://developer.mozilla.org/ko/docs/Learn_web_development/Core/Styling_basics/
 
 https://www.youtube.com/watch?v=phiSW6Pr-gg&list=LL&index=45
 
+https://ssocoit.tistory.com/274 [코딩하는 경제학도]
+
 결합 선택자란?
 ----
 
@@ -31,9 +33,33 @@ https://www.youtube.com/watch?v=phiSW6Pr-gg&list=LL&index=45
 
 가상 클래스 선택
 
+
+자손 선택자 (Descendant Selector)
+---
+
+
+
 자식 선택자(Child selector)
 ---
 
 자식 선택자(>)는 두 CSS 선택자 사이에 배치됩니다. 
 
 특정 요소의 직계 자식 요소 선택하는데 사용됩니다.
+
+
+ 인접 형제 선택자 (Adjacent Sibling)
+ ---
+
+문법적으로는  요소1 + 요소2 이다.
+
+의미: 요소1 바로 다음에 오는 요소2를 선택한다.
+
+("+")는 앞에서 지정한 요소의 바로 다음에 위치하는 형제 요소만 선택하는 결합자
+
+ 
+일반 형제 선택자 (General Sibling)
+---
+
+서로 형제인 요소가 앞 요소 뒷 요소를 전부 선택한다.
+
+문법적: 요소1 ~ 요소2
