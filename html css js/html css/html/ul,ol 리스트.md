@@ -10,6 +10,10 @@ HTML 정리4
 
 https://www.youtube.com/watch?v=sp4ruWfpY2k&list=PLFeNz2ojQZjtQc7mt8E9fNzIh9or34A61&index=11
 
+https://mundol-colynn.tistory.com/55#:~:text=%EB%AA%A9%EB%A1%9D%EA%B4%80%EB%A0%A8%20%ED%83%9C%EA%B7%B8%20:%20%EC%88%9C%EC%84%9C%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EB%AA%A9%EB%A1%9D%ED%83%9C%EA%B7%B8%20%ED%83%9C%EA%B7%B8%EB%AA%85,:%20%EB%AA%A9%EB%A1%9D%EC%9D%98%20%EC%8B%9C%EC%9E%91%20%EC%88%AB%EC%9E%90%EC%A7%80%EC%A0%95%20*%20reserved%20%ED%95%AD%EB%AA%A9
+
+https://www.inflearn.com/course/%ED%95%B5%EC%8B%AC%EB%A7%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-html5?cid=336221
+
 목록
 ---
 
@@ -56,6 +60,29 @@ HTML 목록은 '순서 없는 목록(Unordered List)'과 '순서 있는 목록(O
              <li>두 번째 </li>
              <li>세 번째 </li>
             </ol>
+
+ol 속성
+---
+
+                        예시 <ol type ="속성값"></ol>
+                        
+type :목록에 사용될 마커 지정
+
+ -  1 숫자(default)
+   
+ -  a 소문자
+   
+ - A 대문자
+  
+ - i 로마숫자 소문자
+   
+ - I 로마숫자 대문자
+
+start: 목록이 시작할 숫자의 위치를 지정 (예: <ol start="5">는 5부터 시작)
+
+disc(기본값)/circle /square 
+
+reserved 항목 역순표시
 
 
 목록 항목 (List Item)
