@@ -8,6 +8,7 @@ https://velog.io/@seoyaon/HTML-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B5-%EB%A7%8C%EB
 
 https://www.inflearn.com/course/%ED%95%B5%EC%8B%AC%EB%A7%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-html5/dashboard?cid=336221
 
+https://www.image-map.net/
 
 이미지 맵(Image Map)이란?
 --
