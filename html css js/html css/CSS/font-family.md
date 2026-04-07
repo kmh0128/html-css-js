@@ -10,6 +10,10 @@ https://www.inflearn.com/course/%ED%95%B5%EC%8B%AC%EB%A7%8C-%EB%B0%B0%EC%9A%B0%E
 
 https://wikidocs.net/191780
 
+https://happylucky-lucky.tistory.com/5 
+
+https://coding-factory.tistory.com/906
+
 font-family
 ---
 
@@ -58,3 +62,57 @@ get embed 클릭
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a25aa43-3897-4eec-9a1b-051617f8205b" />
 
+link하고 import 방식 둘중 하나를 선xor
+
+
+link
+---
+
+html 파일
+
+          <!DOCTYPE html>
+          <html lang=ko>
+          <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <meta http-equiv="X-UA-Compatible" content="ie=edge">
+              <title>사인연습</title>
+              <link rel="preconnect" href="https://fonts.googleapis.com">
+              <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+              <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Satisfy&display=swap" rel="stylesheet">
+              <link rel="stylesheet" href="Sign_practice.css">
+          </head>
+
+
+
+처음 두 줄(rel="preconnect")은 브라우저에 글꼴 파일이 있는 서버에 미리 연결하라고 알려 로딩 속도를 높입니다.
+
+세번째 줄(rel="stylesheet")은 실제 Google Fonts 스타일시트를 웹페이지에 적용합니다.
+
+css파일 코드
+
+        .k1_sign{
+            font-family: "Caveat", cursive; 
+            font-size: 100px;
+        }
+
+import 방식
+---
+
+              <head>
+                  <meta charset="UTF-8">
+                  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+                  <title>나만의 싸인</title>
+                  <link rel="stylesheet" href="../css/Sign_style.css">
+              </head>
+              
+css
+
+          .Sign{
+              font-family: "Satisfy", cursive;
+              font-weight: 400;
+              font-style: normal;   
+          }
+
+import 방식보다 link 방식이 성능측면에서 더 좋다고 한다.
